@@ -18,15 +18,39 @@
 //"null" => 0 (number)
 
 
-let isLoggedIn2 = ""
+// let isLoggedIn2 = ""
 
-let boolIsLoggedIn = Boolean(isLoggedIn2)
+// let boolIsLoggedIn = Boolean(isLoggedIn2)
 
-console.log(boolIsLoggedIn);
-console.log(typeof boolIsLoggedIn);
+// console.log(boolIsLoggedIn);
+// console.log(typeof boolIsLoggedIn);
 
 //"" => false
 //"anyText" => true
 //1 => true
 //0 => false
+
+
+//************************Operations************************//
+
+
+let value = 3;
+
+let negValue = -value;
+
+//console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*3);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
+
+
+
+
+
+
 
